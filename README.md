@@ -1,6 +1,6 @@
 # extensions-fmreader
 
 ### Contains sources:  
-LoveHug
-Manhwa18Com
-Manhwa18Net
+LoveHug  
+Manhwa18Com  
+Manhwa18Net  

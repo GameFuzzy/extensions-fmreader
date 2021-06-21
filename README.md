@@ -1,16 +1,6 @@
-# extensions-madara
+# extensions-fmreader
 
 ### Contains sources:  
-Aloalivn  
-ArangScans  
-ComicKiba  
-HiperDex  
-MangaBob  
-MangaTX  
-ManhuaPlus  
-Manhuaus  
-Toonily  
-WebtoonXYZ  
-LeviatanScans  
-LeviatanScansES  
-SKScans  
+LoveHug
+Manhwa18Com
+Manhwa18Net

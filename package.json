@@ -1,8 +1,8 @@
 {
-  "name": "madara-extensions",
+  "name": "fmreader-extensions",
   "version": "1.0.0",
-  "repositoryName": "[PROMISES] Madara Extensions",
-  "description": "Contains sources using the Madara template",
+  "repositoryName": "[PROMISES] FMReader Extensions",
+  "description": "Contains sources using the FMReader template",
   "scripts": {
     "start": "tsc && node dist/api.js",
     "build": "tsc",
